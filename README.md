@@ -6,7 +6,7 @@ Lading page de um site de um banco que vende os melhores cartões de crédito de
 
 A parte de comentários e avaliações dos clientes é composta por um carrossel automático e manual.
 
-O projeto totalmente responsivo com a utilização da framework TailwindCSS. 
+O projeto é totalmente responsivo com a utilização da framework TailwindCSS. 
 
 # Tecnologias utilizadas
 - React / TailWindCSS
