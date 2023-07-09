@@ -1,5 +1,5 @@
 import FeedBackCard from "./FeedBackCard";
-import { feedback } from "../Constants";
+import { feedback } from "../Constants/Index"
 import { styles } from "../Style";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";

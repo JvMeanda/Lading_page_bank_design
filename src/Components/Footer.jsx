@@ -1,6 +1,6 @@
 import { styles } from "../Style";
 import { logo } from "../assets";
-import { footerLinks, socialMedia } from "../Constants";
+import { footerLinks, socialMedia } from "../Constants/Index";
 
 const copyright = String.fromCodePoint(0x00a9);
 

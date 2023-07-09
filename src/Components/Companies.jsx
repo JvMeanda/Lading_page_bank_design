@@ -1,4 +1,4 @@
-import { clientCompanies } from "../Constants";
+import { clientCompanies } from "../Constants/Index";
 import { styles } from "../Style";
 
 const Companies = () => (
